@@ -7,6 +7,10 @@
     font-size: small;
 }
 
+.dropdown-content{
+    display: none;
+}
+
 .custom-divider {
     height: 5px;
     background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
