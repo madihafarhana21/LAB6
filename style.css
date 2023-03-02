@@ -11,14 +11,11 @@
     display: none;
 }
 .dropdown-menu a:hover{
-    background-color: #000;
-    color: #fff;
 }
 .dropdown:hover .dropdown-menu{
     display: block;
 }
 .dropdown:hover .register-menu{
-    background-color: transparent;
 }
 
 
