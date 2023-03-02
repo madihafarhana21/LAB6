@@ -10,6 +10,13 @@
 .dropdown-content{
     display: none;
 }
+.dropdown-content a:hover
+{
+}
+.right-menu:hover .dropdown-content{
+    display: block;
+}
+.right-menu:hover .dropdown-content
 
 .custom-divider {
     height: 5px;
