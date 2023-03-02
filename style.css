@@ -7,16 +7,20 @@
     font-size: small;
 }
 
-.dropdown-content{
+.dropdown-menu{
     display: none;
 }
-.dropdown-content a:hover
-{
+.dropdown-menu a:hover{
+    background-color: #000;
+    color: #fff;
 }
-.right-menu:hover .dropdown-content{
+.dropdown:hover .dropdown-menu{
     display: block;
 }
-.right-menu:hover .dropdown-content
+.dropdown:hover .register-menu{
+    background-color: transparent;
+}
+
 
 .custom-divider {
     height: 5px;
